@@ -29,5 +29,6 @@ This repository contains my notes and code from the **Python Full Course in One 
 Thanks to [CodeWithHarry](https://www.youtube.com/@CodeWithHarry) for the amazing course!
 
 ## Resources
-Python Handbook:- https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/YouTube/The%20Ultimate%20Python%20Handbook.pdf
+Python Handbook:- https://cwh-full-next-space.fra1.cdn.digitaloceanspaces.com/YouTube/The%20Ultimate%20Python%20Handbook.pdf  
+
 Python Cheatsheet:- https://www.codewithharry.com/blogpost/python-cheatsheet
